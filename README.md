@@ -16,7 +16,7 @@ Data & Network weights:
 
 ![Alt text](./figures/cnn_model.png)
 
-The dataset will soon be deposited in the CXIDB - Coherent X-ray Imaging Data Bank.
+The datasets are now deposited in the **Coherent X-ray Imaging Data Bank** (CXIDB) at https://cxidb.org/id-233.html and https://cxidb.org/id-232.html 
 Weights can also be found at: https://shorturl.at/T1ztL
 
 The scripts provided in the directory ~/scripts allow to download the PDB files from the .csv file ~/data/dataset.csv that compose our dataset. 
